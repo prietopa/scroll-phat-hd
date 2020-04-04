@@ -21,7 +21,7 @@ Press Ctrl+C to exit!
 """)
 
 IMAGE_BRIGHTNESS = 0.5
-
+scrollphathd.rotate(degrees=180)
 img = Image.open("mouth.bmp")
 
 

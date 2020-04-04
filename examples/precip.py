@@ -220,7 +220,8 @@ if __name__ == '__main__':
     scrollphathd.set_brightness(1)
 
     # Board rotation
-    scrollphathd.rotate(arguments.get('rotate'))
+    scrollphathd.rotate(degrees=180)
+    # scrollphathd.rotate(arguments.get('rotate'))
 
     width = scrollphathd.get_shape()[0]
     height = scrollphathd.get_shape()[1]

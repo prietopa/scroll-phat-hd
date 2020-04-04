@@ -42,7 +42,7 @@ q = queue.Queue()
 def mainloop():
     # Uncomment the below if your display is upside down
     #   (e.g. if you're using it in a Pimoroni Scroll Bot)
-    # scrollphathd.rotate(degrees=180)
+    scrollphathd.rotate(degrees=180)
     scrollphathd.clear()
     scrollphathd.show()
 

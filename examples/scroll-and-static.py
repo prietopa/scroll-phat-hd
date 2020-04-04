@@ -17,7 +17,7 @@ Press Ctrl+C to exit!
 
 # Uncomment the below if your display is upside down
 #   (e.g. if you're using it in a Pimoroni Scroll Bot)
-# scrollphathd.rotate(degrees=180)
+scrollphathd.rotate(degrees=180)
 
 # Set a more eye-friendly default brightness
 scrollphathd.set_brightness(0.5)

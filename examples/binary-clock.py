@@ -133,4 +133,5 @@ def main():
 
 
 if __name__ == '__main__':
+    scrollphathd.rotate(degrees=180)
     main()

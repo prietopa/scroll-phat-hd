@@ -13,6 +13,7 @@ single messages across the display.
 Press Ctrl+C to exit.
 """)
 
+scrollphathd.rotate(degrees=180)
 
 def scroll_message(message):
     scrollphathd.clear()                         # Clear the display and reset scrolling to (0, 0)

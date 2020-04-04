@@ -30,7 +30,7 @@ import os
 
 # Uncomment the below if your display is upside down
 #   (e.g. if you're using it in a Pimoroni Scroll Bot)
-# scrollphathd.rotate(degrees=180)
+scrollphathd.rotate(degrees=180)
 
 # Wunderground API key
 WGND_API_KEY = "paste your key here"                         # make sure to put your unique wunderground key in here
@@ -40,9 +40,10 @@ WGND_API_KEY = os.environ.get("WGND_API_KEY", WGND_API_KEY)  # or set the WGND_A
 # Note that some locations are a bit wonky. If a specific location has a hypen "-" in it and it doesn't work, try substituting an underscore "_" instead
 # Even then, I couldn't get some locations to work properly. Seems like a possible bug in the wunderground API.
 
-WGND_STATION = "gb/london"                    # London, UK
+WGND_STATION = "sp/madrid"                    # Madrid, Spain
 
 # Some other fun stations to try
+# WGND_STATION = "gb/london"                  # London, UK
 # WGND_STATION = "ru/yakutsk"                 # Yakutsk, Russia - one of the coldest places on earth
 # WGND_STATION = "au/sydney"                  # Sydney, Australia
 # WGND_STATION = "gr/athens"                  # Athens, Greece
@@ -73,7 +74,7 @@ WIND_BRIGHTNESS = 0.1     # show current speed as a slightly dimmer line
 KR_PULSE_DELAY = 0.05
 
 # Temperature scale (C or F). MUST USE UPPERCASE.
-TEMP_SCALE = "F"
+TEMP_SCALE = "C"
 
 # Max wind speed. Used to calculate the wind speed bar graph (17 "x" pixels / max wind speed = ratio to multiply current wind speed by in order to
 #    determine much much of a line to draw)

@@ -20,7 +20,7 @@ Press Ctrl+C to exit!
 """)
 
 # Uncomment to rotate the text
-# scrollphathd.rotate(180)
+scrollphathd.rotate(180)
 
 # Set a more eye-friendly default brightness
 scrollphathd.set_brightness(0.5)
