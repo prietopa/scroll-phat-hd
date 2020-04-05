@@ -1,0 +1,95 @@
+# Translations template for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-04-05 18:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: app/templates/index.html:6
+msgid "Scroll pHAT HD"
+msgstr "Scroll pHAT HD"
+
+#: app/templates/index.html:7
+msgid "Discover all scroll-bot possibilities!!."
+msgstr "¡¡Descubre todas las posibilidades de scroll-bot!!"
+
+#: app/templates/index.html:13
+msgid "Text"
+msgstr "Texto"
+
+#: app/templates/index.html:18
+msgid "How are you today?"
+msgstr "¿Cómo te sientes?"
+
+#: app/templates/index.html:21
+msgid "show me!!"
+msgstr "Muestramelo"
+
+#: app/templates/index.html:32
+msgid "Scroll by Arrows"
+msgstr "Scroll por flechas"
+
+#: app/templates/index.html:40
+msgid "Up"
+msgstr "Arriba"
+
+#: app/templates/index.html:50
+msgid "Left"
+msgstr "Izquierda"
+
+#: app/templates/index.html:58
+msgid "Right"
+msgstr "Derecha"
+
+#: app/templates/index.html:68
+msgid "Down"
+msgstr "Abajo"
+
+#: app/templates/index.html:78
+msgid "Scroll by Coordinates"
+msgstr "Scroll por coordenadas"
+
+#: app/templates/index.html:82
+msgid "Scroll"
+msgstr "Scroll"
+
+#: app/templates/index.html:94
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: app/templates/index.html:96
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: app/templates/index.html:99
+msgid "Set"
+msgstr "Establece"
+
+#: app/templates/index.html:103
+msgid "Interval:"
+msgstr "Intervalo:"
+
+#: app/templates/index.html:115
+msgid "Display"
+msgstr "Muestra"
+
+#: app/templates/index.html:117
+msgid "Clear"
+msgstr "Limpia"
+
+#: app/templates/index.html:125
+msgid "Footer"
+msgstr "Pie de página"
+

@@ -1,0 +1,1 @@
+FLASK_APP=scroll_bot.py
