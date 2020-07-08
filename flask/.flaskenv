@@ -1,1 +1,2 @@
 FLASK_APP=scroll_bot.py
+FLASK_ENV=development

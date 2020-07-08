@@ -28,7 +28,7 @@ scrollphathd.set_brightness(0.5)
 text = [unichr(x) for x in range(256)]
 
 text = u"{}        ".format(u"".join(text))
-
+print(text)
 scrollphathd.write_string(text, x=0, y=0, font=font5x7, brightness=0.5)
 
 while True:

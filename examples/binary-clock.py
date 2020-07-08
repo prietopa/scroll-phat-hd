@@ -4,6 +4,8 @@
 # for the Pimoroni Scroll Bot.
 # Copyright (C) 2018 Freddy Spierenburg
 
+# run only wit python2
+
 import scrollphathd
 import datetime
 import math

@@ -20,7 +20,7 @@ scrollphathd.rotate(degrees=180)
 
 # Write the "Hello World!" string in the buffer and
 # set a more eye-friendly default brightness
-scrollphathd.write_string(" Hello World!", brightness=0.5)
+scrollphathd.write_string(" Hello World!", brightness=0.2)
 
 # Auto scroll using a while + time mechanism (no thread)
 while True:
